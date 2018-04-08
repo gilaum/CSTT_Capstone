@@ -1,8 +1,9 @@
 # CSTT_Capstone
-Northwestern University Capstone team project
+## Northwestern University Capstone team project
 
 This repository holds the files for a Northwestern University Capstone project completed Spring term 2018.  
 The project team members are:
+
 *Catherine Tolley
 *Sheela Rao
 *Tom Alig
