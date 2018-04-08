@@ -3,10 +3,10 @@ Northwestern University Capstone team project
 
 This repository holds the files for a Northwestern University Capstone project completed Spring term 2018.  
 The project team members are:
-Catherine Tolley
-Sheela Rao
-Tom Alig
-Tamara Williams
+*Catherine Tolley
+*Sheela Rao
+*Tom Alig
+*Tamara Williams
 
 Advisor : Dr. Don Wedding
 
