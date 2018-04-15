@@ -1,0 +1,1 @@
+Data from https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting plus some addition weather data, courtsey of https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda/data
